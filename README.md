@@ -1,6 +1,6 @@
 # 📚 Literalura
 
-Literalura es una aplicación de consola desarrollada en Java con Spring Boot. Permite buscar libros desde el catálogo público de [Gutendex](https://gutendex.com/), almacenarlos en una base de datos y visualizar estadísticas por idioma o autor.
+Literalura es una aplicación de consola desarrollada en Java con Spring Boot. Permite buscar libros desde el catálogo público de [Gutendex](https://gutendex.com/), almacenarlos en una base de datos(en este caso en MySQL) y visualizar estadísticas por idioma o autor.
 
 ---
 
